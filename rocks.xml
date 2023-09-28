@@ -1,0 +1,14 @@
+<!DOCTYPE rocks PUBLIC "SYSTEM" "rocks.dtd">
+
+<rocks>
+    <rock>
+        <name>Diamond</name>
+        <type>Precious</type>
+        <value currency="dollars">50000000</value>
+        <quantity>1</quantity>
+        <weight system="pounds">11</weight>
+        <height system="inches">8</height>
+        <width system="feet">2</width>
+        <observations>Shiny</observations>
+    </rock>
+</rocks>

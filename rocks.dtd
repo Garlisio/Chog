@@ -1,0 +1,14 @@
+<!ELEMENT rocks (rock)>
+<!ELEMENT rock (name,type,value,quantity,weight,height,width,observations)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT value (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT weight (#PCDATA)>
+<!ELEMENT height (#PCDATA)>
+<!ELEMENT width (#PCDATA)>
+<!ELEMENT observations (#PCDATA)>
+<!ATTLIST weight system ID #IMPLIED>
+<!ATTLIST height system ID #IMPLIED>
+<!ATTLIST width system ID #IMPLIED>
+<!ATTLIST value currency ID #IMPLIED>
