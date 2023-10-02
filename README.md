@@ -2,9 +2,11 @@
 
 This project aims to help you categorize all your rocks.
 
+
 ## Getting Started
 
 Here you finally can archive the value, width, weight, height, quantity and type for all the rocks you have!
+
 
 ## Authors
 
